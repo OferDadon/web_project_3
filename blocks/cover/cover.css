@@ -1,12 +1,6 @@
-@import url(./__subtitle/cover__subtitle.css);
-@import url(./__title/cover__title.css);
-@import url(./__link/cover__link.css);
-
-
 .cover{
-  background-image: url(../../images/__item.jpg);
+  background-image: url(../../images/__background\ \(1\).jpg);
   background-size: cover;
-
   min-height: 740px;
   color: #fff;
   display: flex;
