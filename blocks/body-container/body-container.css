@@ -1,0 +1,12 @@
+.body-container {
+    width:100%;
+    max-width:1184px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    flex-wrap:wrap;
+    align-items:center;
+    color:#FFFFFF;
+    padding:34px 0px 24px;
+    font-family:'Inter', 'sans-serif';
+  }

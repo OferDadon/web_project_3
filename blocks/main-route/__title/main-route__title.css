@@ -1,0 +1,17 @@
+.main-route__title {
+    margin:0;
+    font-weight:900;
+    font-style:normal;
+    font-size:72px;
+    line-height:76px;
+    text-align:center;
+    max-width:656px;
+    width:100%;
+    z-index:2;
+  }
+  @media screen and (max-width:500px) {
+    .main-route__title {
+      font-size:32px;
+      line-height:35px;
+    }
+  }

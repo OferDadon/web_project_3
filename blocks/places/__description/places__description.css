@@ -1,0 +1,21 @@
+.places__description {
+    max-width:100%;
+    font-weight:400;
+    font-size:18px;
+    line-height:29.34px;
+    font-style:normal;
+  }
+  @media screen and (max-width:768px) {
+    .places__description {
+      font-size:16px;
+      line-height:26.08px;
+    }
+  }
+  @media screen and (max-width:500px) {
+    .places__description {
+      padding-left:16px;
+      padding-right:16px;
+      margin-top:2px;
+    }
+  }
+  
