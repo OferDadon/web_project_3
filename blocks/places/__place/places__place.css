@@ -1,0 +1,22 @@
+.places__place {
+    width:100%;
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    justify-content:center;
+    grid-row-gap:48px;
+    grid-column-gap:40px;
+    margin-top:80px;
+  }
+  @media screen and (max-width:768px) {
+    .places__place {
+      margin-top:73px;
+      grid-column-gap:28px;
+    }
+  }
+  @media screen and (max-width:500px) {
+    .places__place {
+      grid-template-columns:auto;
+      margin-top:48px;
+      grid-row-gap:30px;
+    }
+  }

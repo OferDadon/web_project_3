@@ -1,0 +1,10 @@
+.places__paragraph {
+    margin:0;
+    padding:0;
+    margin-bottom:25px;
+    min-width:100%;
+  }
+  .places__paragraph:last-child {
+    margin-bottom:0;
+    line-height:26px;
+  }
