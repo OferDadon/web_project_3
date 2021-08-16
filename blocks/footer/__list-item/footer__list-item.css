@@ -1,5 +1,14 @@
+.footer__list-item {
+  display: inline;
+  margin-right: 0;
+  margin-bottom: 32px;
+}
+
 @media screen and (max-width:500px) {
   .footer__list-item {
-    margin-bottom:32px;
+    flex-direction:column;
+    width:165px;
+    
   }
+
 }

@@ -5,23 +5,27 @@
   grid-template-columns:repeat(auto-fit,minmax(284px,auto));
   justify-content:center;
   grid-gap:16px;
+  padding-bottom: 80px;
 }
-@media screen and (max-width:1024px){
+
+@media screen and (max-width: 1024px) {
   .photo-grid {
     grid-gap:14px;
     padding:0 48px 0;
-   }
+  }
 }
-@media screen and (max-width:768px){
+
+@media screen and (max-width: 768px) {
   .photo-grid {
     grid-gap:16px;
     padding:0 24px 0;
-   }
+  }
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width: 420px) {
   .photo-grid {
     grid-gap:12px;
     padding:0 16px 0;
-   }
+  }
 }
+

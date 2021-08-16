@@ -4,17 +4,25 @@
 * Intro
 * Figma
 * Images
+* Future improving
+* GitHub pages
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+* This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes.
 
 **Figma**
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=2%3A182)
+* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+* We exporting images directly from Figma. [Here](https://tinypng.com/) you can optimize your images, so your project loads faster. 
 
-Good luck and have fun!
+**Future improving**
+* I consider to add more font-sizes or font-sizes for titles, subtitles and texts because the screen size can be changed and the text must be optimized to each size.
+
+**GitHub pages**
+* You can look at the project as a deployed website at the GitHub pages [here](https://arte504.github.io/web_project_3/).
+
+*Have fun when you observe it!*

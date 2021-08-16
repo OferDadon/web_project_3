@@ -1,6 +1,8 @@
+
 .cover{
   background-image: url(../../images/__background\ \(1\).jpg);
   background-size: cover;
+
   min-height: 740px;
   color: #fff;
   display: flex;
@@ -13,7 +15,6 @@
   width: 100%;
   max-width: 1184px;
   box-sizing: border-box;
-
 }
 
 @media screen and (max-width: 1024px) {

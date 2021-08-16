@@ -1,20 +1,3 @@
 .lead__figure {
-  margin:0;
-  padding:0;
-  height:637px;
-}
-@media screen and (max-width:1024px){
-  .lead__figure {
-    height:602px;
-  }
-}
-@media screen and (max-width:768px){
-  .lead__figure {
-    height:502px;
-  }
-}
-@media screen and (max-width:500px){
-  .lead__figure {
-    height:222px;
-  }
+  margin: 0;
 }
